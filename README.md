@@ -42,7 +42,7 @@ $ rails server
 
 *Closing your server
 ```
-$rail server
+$ rail server
 ```
 If you get an error with `You must use Bundler 2 or greater with this lockfile. (Bundler::LockfileError)`, you need to manually replace the last line in `Gemfile.lock` with `  1.13.6`. 
 
